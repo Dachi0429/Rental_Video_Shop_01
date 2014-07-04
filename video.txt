@@ -1,0 +1,9 @@
+jurashic	10	0
+ana		9	0
+yukino		11	0
+jou ashita	12	1
+jou ashita	12	0
+jurashic	100
+ana	90
+yukino	110
+jou ashita	120
